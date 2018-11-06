@@ -7,5 +7,5 @@ https://people.cs.clemson.edu/~dhouse/courses/817/papers/mueller03.pdf
 
 ![Alt text](sph_screenshots/2018-11-05.png)
 ![Alt text](sph_screenshots/2018-11-05%20(1).png)
-![Alt text](sph_screenshots/2018-11-05%20(2).png?raw=true "fluid simulation3")
-![Alt text](sph_screenshots/2018-11-05%20(3).png?raw=true "fluid simulation4")
+![Alt text](sph_screenshots/2018-11-05%20(2).png)
+![Alt text](sph_screenshots/2018-11-05%20(3).png)
