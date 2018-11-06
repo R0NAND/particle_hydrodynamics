@@ -1,0 +1,25 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (sfml_setup_template.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Fluid.cpp
+c:\users\rodaw\source\repos\sph_fluid_simulator\sfml_setup_template\sphkernels.h(17): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\rodaw\source\repos\sph_fluid_simulator\sfml_setup_template\fluid.h(33): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\rodaw\source\repos\sph_fluid_simulator\sfml_setup_template\fluid.cpp(7): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\rodaw\source\repos\sph_fluid_simulator\sfml_setup_template\fluid.cpp(10): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\rodaw\source\repos\sph_fluid_simulator\sfml_setup_template\fluid.cpp(18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rodaw\source\repos\sph_fluid_simulator\sfml_setup_template\fluid.cpp(20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rodaw\source\repos\sph_fluid_simulator\sfml_setup_template\fluid.cpp(181): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Particle.cpp
+c:\users\rodaw\source\repos\sph_fluid_simulator\sfml_setup_template\particle.cpp(117): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SPHKernels.cpp
+c:\users\rodaw\source\repos\sph_fluid_simulator\sfml_setup_template\sphkernels.h(17): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\rodaw\source\repos\sph_fluid_simulator\sfml_setup_template\sphkernels.cpp(9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rodaw\source\repos\sph_fluid_simulator\sfml_setup_template\sphkernels.cpp(10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rodaw\source\repos\sph_fluid_simulator\sfml_setup_template\sphkernels.cpp(11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\rodaw\source\repos\sph_fluid_simulator\sfml_setup_template\sphkernels.cpp(12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+c:\users\rodaw\source\repos\sph_fluid_simulator\sfml_setup_template\sphkernels.h(17): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\rodaw\source\repos\sph_fluid_simulator\sfml_setup_template\fluid.h(33): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\rodaw\source\repos\sph_fluid_simulator\sfml_setup_template\main.cpp(15): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\rodaw\source\repos\sph_fluid_simulator\sfml_setup_template\main.cpp(66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rodaw\source\repos\sph_fluid_simulator\sfml_setup_template\main.cpp(66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  sfml_setup_template.vcxproj -> C:\Users\rodaw\source\repos\sph_fluid_simulator\Debug\sph_fluid_simulator.exe
